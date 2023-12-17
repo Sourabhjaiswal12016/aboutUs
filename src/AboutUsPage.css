@@ -1,0 +1,43 @@
+
+
+.about-us-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  header, footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .each-sections {
+    margin-bottom: 20px;
+  }
+  
+  .about-head1, .about-head2 {
+    color: #333;
+  }
+  
+  .about-text{
+    color: #555;
+    margin-left: 0px;
+    font-size: large;
+    font-weight: 600;
+    text-indent: 0.5px;
+  }
+  
+  .about-head2{
+    display: flex;
+    
+  }
+  .hz-line{
+    margin-top: 0.2px;
+    height: 3px;
+    width: inherit;
+    background:#555;
+  }
